@@ -1,1 +1,0 @@
-# Simple example of the classic Mad Libs game
