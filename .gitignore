@@ -1,0 +1,6 @@
+bin/
+MadLibs/bin/
+MadLibs/obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
